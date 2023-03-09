@@ -5,7 +5,7 @@ const Home = ()=>{
     return(
         <>
             <h1>Welcome to My to do list</h1>
-            <button>start Now</button>
+            <button>Start Now</button>
         </>
     )
 }
